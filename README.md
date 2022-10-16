@@ -98,9 +98,8 @@
        - 最短等待時間
        - 最短響應時間
 
-17. <img src="https://1.bp.blogspot.com/-LkPOa9wW8Pg/WZkYxt0_y4I/AAAAAAABVUk/Ve8ci-lOUB0-H-3ycEMIAAMN8wS2JxpMwCLcBGAs/s1600/FCFS.png" alt="img" style="zoom:67%;" /><img src="https://1.bp.blogspot.com/-HH4BeD9I6kw/WZkY54lwEeI/AAAAAAABVUs/hLHNwgYM3y0N2zRM9IgipGtqAHXgE66UQCLcBGAs/s1600/SJF.png" alt="img" style="zoom:67%;" /><img src="https://1.bp.blogspot.com/-eXqYRH_a8OE/WZkZJ2E7WTI/AAAAAAABVUw/L1AQtbGSncERREs_sZCcYPjaNTIrHLGSgCLcBGAs/s1600/RR.png" alt="img" style="zoom: 67%;" />
-
-    https://www.studytonight.com/operating-system/priority-scheduling
+17. https://www.studytonight.com/operating-system/priority-scheduling
+   <img src="https://1.bp.blogspot.com/-LkPOa9wW8Pg/WZkYxt0_y4I/AAAAAAABVUk/Ve8ci-lOUB0-H-3ycEMIAAMN8wS2JxpMwCLcBGAs/s1600/FCFS.png" alt="img" style="zoom:67%;" /><img src="https://1.bp.blogspot.com/-HH4BeD9I6kw/WZkY54lwEeI/AAAAAAABVUs/hLHNwgYM3y0N2zRM9IgipGtqAHXgE66UQCLcBGAs/s1600/SJF.png" alt="img" style="zoom:67%;" /><img src="https://1.bp.blogspot.com/-eXqYRH_a8OE/WZkZJ2E7WTI/AAAAAAABVUw/L1AQtbGSncERREs_sZCcYPjaNTIrHLGSgCLcBGAs/s1600/RR.png" alt="img" style="zoom: 67%;" />
 
     
 
